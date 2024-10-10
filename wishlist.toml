@@ -242,14 +242,6 @@ upstream = "https://github.com/BOINC/boinc"
 website = "https://boinc.berkeley.edu/"
 added_date = 1696759759  # 2023/10/08
 
-
-[breezewiki]
-name = "BreezeWiki"
-description = "An alternative frontend for Fandom"
-upstream = "https://gitdab.com/cadence/breezewiki"
-website = "https://breezewiki.com/"
-added_date = 1718828987  # 2024/06/19
-
 [btcpay-server]
 name = "BTCPay Server"
 description = "Bitcoin payment processor"
@@ -399,13 +391,6 @@ upstream = "https://github.com/PartiPirate/congressus"
 website = "https://congressus.partipirate.org/about.php"
 added_date = 1695669585  # 2023/09/25
 
-[convos]
-name = "Convos"
-description = "IRC client that runs in your browser and always online."
-upstream = "https://github.com/convos-chat/convos/"
-website = "https://convos.chat/"
-added_date = 1697034324  # 2023/10/11
-
 [coquelicot]
 name = "Coquelicot"
 description = "A “one-click” file sharing web application"
@@ -427,13 +412,6 @@ description = "enhanced fail2ban  app"
 upstream = "https://github.com/crowdsecurity/crowdsec"
 website = "https://www.crowdsec.net/"
 added_date = 1698055766  # 2023/10/23
-
-[cusdis]
-name = "Cusdis"
-description = "A lightweight, privacy-friendly comment system alternative to Disqus."
-upstream = "https://github.com/djyde/cusdis"
-website = "https://cusdis.com/"
-added_date = 1695656621  # 2023/09/25
 
 [dashy]
 name = "Dashy"
@@ -490,13 +468,6 @@ description = "Real-time API and intuitive no-code data collaboration app for an
 upstream = "https://github.com/directus/directus"
 website = "https://directus.io/"
 added_date = 1698692103  # 2023/10/30
-
-[do-doc]
-name = "do.doc"
-description = "chaine éditoriale simple, permettant la capture, l'édition et la publication de contenu multimedia."
-upstream = "https://github.com/l-atelier-des-chercheurs/dodoc"
-website = "https://dodoc.fr/"
-added_date = 1696236656  # 2023/10/02
 
 [docker-registry]
 name = "Docker-registry"
@@ -940,6 +911,14 @@ upstream = "https://gitlab.xiph.org/xiph/icecast-server/"
 website = "https://www.icecast.org"
 added_date = 1695656621  # 2023/09/25
 
+
+[indico]
+name = "Indico"
+description = "A feature-rich event management system, made @ CERN, the place where the Web was born."
+upstream = "https://github.com/indico/indico"
+website = "https://getindico.io/"
+added_date = 1728509906  # 2024/10/09
+
 [infcloud]
 name = "InfCloud"
 description = "A contacts, calendar and tasks web client for CalDAV and CardDAV"
@@ -989,14 +968,6 @@ upstream = "https://github.com/ipfs/ipfs"
 website = "https://ipfs.io"
 draft = "https://github.com/YunoHost-Apps/ipfs_ynh"
 added_date = 1695656621  # 2023/09/25
-
-[ittools]
-name = "ITTools"
-description = "A lot of useful tools for developer and people working in IT."
-upstream = "https://github.com/CorentinTh/it-tools"
-website = "https://it-tools.tech/"
-added_date = 1708461529  # 2024/02/20
-
 
 [jan]
 name = "JAN"
@@ -1493,6 +1464,14 @@ upstream = "https://github.com/causefx/Organizr"
 website = "https://docs.organizr.app/"
 added_date = 1696401071  # 2023/10/04
 
+
+[ospreadsheet]
+name = "ospreadsheet"
+description = "Standalone spreadsheet for the web (initially for Odoo but somewhat independent?)"
+upstream = "https://github.com/odoo/o-spreadsheet"
+website = "https://odoo.github.io/o-spreadsheet/"
+added_date = 1727292993  # 2024/09/25
+
 [osrm]
 name = "OSRM"
 description = "Routing Machine - C++ backend"
@@ -1847,13 +1826,6 @@ upstream = "https://source.scenari.software/projects/suite-starter"
 website = "https://scenari.software/fr/"
 added_date = 1706992280  # 2024/02/03
 
-[screego]
-name = "Screego"
-description = "Screen sharing webrtc"
-upstream = "https://github.com/screego/server"
-website = "https://screego.net/"
-added_date = 1695656621  # 2023/09/25
-
 [scribe]
 name = "Scribe"
 description = "An alternative frontend to Medium"
@@ -1992,13 +1964,6 @@ description = "Gallery/Camera application with private encrypted Backup and Sync
 upstream = "https://github.com/stingle/stingle-api"
 website = "https://stingle.org/"
 added_date = 1698055727  # 2023/10/23
-
-[stirling-pdf]
-name = "Stirling PDF"
-description = "Edit, compress, sign, OCR and other various operations on PDF files"
-upstream = "https://github.com/Frooodle/Stirling-PDF"
-website = ""
-added_date = 1703600754  # 2023/12/26
 
 [storj]
 name = "Storj"
